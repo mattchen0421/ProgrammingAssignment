@@ -1,5 +1,5 @@
 code book
-"subject" is the code of the subjects./n
+"subject" is the code of the subjects.\n
 "activity" lable the six activities that subject done
 X,Y,Z represent 3 differnt directon
 .mean means it is a mean value
